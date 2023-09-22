@@ -1,6 +1,2 @@
-theme: slate
-
 # TestSite
-Learning to code on this site
-
-
+This website was created to complete the Website building assignment.
