@@ -4,4 +4,4 @@ This website was created to complete the Website building assignment. The choice
 Here is additional text that will be added later once I address all the issues.
 
 [Link](url=google.com)
-![Image](src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1024px-CC-logo.svg.png)
+![Facenating Image](src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1024px-CC-logo.svg.png)
