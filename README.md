@@ -3,5 +3,9 @@ This website was created to complete the Website building assignment. The choice
 ## Adding the Theme
 Here is additional text that will be added later once I address all the issues.
 
-[Link](url=google.com)
+<a
+        href="https://en.wikipedia.org/wiki/New_York_Fashion_Week"
+        target="_blank"
+        >NYFW</a
+      >
 ![Facenating Image](src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1024px-CC-logo.svg.png)
