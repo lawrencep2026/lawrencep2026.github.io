@@ -9,5 +9,6 @@ Here is additional text that will be added later once I address all the issues.
         >Google</a
       >
 <img
-    src="[https://content.codecademy.com/courses/learn-html/elements-and-structure/profile.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1024px-CC-logo.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CC-logo.svg/1024px-CC-logo.svg.png"
+    src="![image](https://github.com/lawrencep2026/TestSite/assets/145371373/32e564a5-7be2-4ef4-b2c5-2557871e24c4)
+"
 />
